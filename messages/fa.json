@@ -1,11 +1,12 @@
 {
-    "HomePage" :{
+    "Metadata" :{
         "tools" : {
             "lang" : "Fa",
             "dir" : "rtl"
         },
         "seo" : {
-            "title" : "بت 365"
+            "title" : "بت 365",
+            "description" : "کلونی از بت 365 که با نکست و تیلویند ساخته شده"
         }
     }
 }
